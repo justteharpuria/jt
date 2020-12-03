@@ -1,3 +1,4 @@
+/*******************tag as selector********************/
 body {
   color: #40514E;
   background-color: #e8ded2;
@@ -7,7 +8,7 @@ body {
 }
 
 h1 {
-  width: 30%;
+  width: 50%;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
@@ -50,9 +51,10 @@ hr {
   margin: 100px auto;
 }
 
+/*******************class as selector********************/
 .top-container {
   background-color: #EAF6F6;
-  padding-top: 100px;
+  padding-top: 75px;
 }
 
 .middle-container {
@@ -66,14 +68,14 @@ hr {
 
 .top-cloud {
   position: absolute;
-  top: 40px;
+  top: 75px;
   right: 300px;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 250px;
-  bottom: 300px;
+  top: 260px;
 }
 
 .skill-row {
@@ -83,7 +85,7 @@ hr {
 }
 
 .intro {
-  width: 30%;
+  width: 40%;
   margin: auto;
 }
 
